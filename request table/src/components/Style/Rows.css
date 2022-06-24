@@ -1,0 +1,87 @@
+.container{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.200);
+    width: 100%;
+}
+.in-{
+    margin-left: 35%;
+}
+.h6{
+    text-align: center;
+}
+.btn--{
+    margin-left: 35%;
+}
+.pos{
+    margin-left: 58%;
+}
+.container2{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.200);
+    width: 100%;
+    height: 100%;
+    margin-left: 0%;
+}
+
+.container2 .animate{
+    position: relative;
+    margin: auto;
+    margin-top: 10%;
+    z-index: 4;
+    width: 40%;
+    height: 85vh;
+    background-color: white;
+    padding: 12px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px 0 black;
+}
+
+.animate #close{
+    float: right;
+    margin-right: 15px;
+    margin-top: 15px;
+    background-color: rgba(13,110,253,255);
+    border-radius: 4px;
+    width: 100px;
+    color: white;
+    border: none;
+    padding: 5px;
+}
+.animate #close:hover{
+    background-color: rgb(6, 6, 77);
+    transition: 0.5s;
+}
+.add-content{
+    background-color: rgba(13,110,253,255);
+    border-radius: 4px;
+    width: 100px;
+    color: white;
+    border: none;
+    padding: 5px;
+}
+/* .animate input{
+    width: 100%;
+    margin: 5px 15px 5px 5px;
+    padding: 1px 5px;
+}
+.animate{
+    -webkit-animation: animatezoom;
+    animation: animatezoom 2s linear;
+}
+@-webkit-keyframes animatezoom {
+    from{
+        -webkit-transform: scale(0);
+    }
+    to{
+        -webkit-transform: scale(1);
+    }
+}
+
+@keyframes animatezoom {
+    from{
+        transform: scale(0);
+    }
+    to{
+        transform: scale(1);
+    }
+} */

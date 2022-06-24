@@ -1,0 +1,89 @@
+.btn- {
+    color: aliceblue;
+    background-color: rgb(58, 95, 143);
+    width: 80px;
+    height: 35px;
+    border: solid 1px;
+    border-color: azure;
+}
+.btn-:hover{
+    border: solid 3px;
+}
+h6{
+    margin-left:8%;
+}
+.in{
+    margin-left: 40px;
+    border: solid 0px;
+    width: 400px;
+    height: 30px;
+}
+.modal-c{
+    margin-left: 15%;
+    margin-top: -21%;
+    width: 35%;
+    height: 90%;
+    background-color: rgba(0, 0, 0, 0.200);
+    /* background-color: rgb(238, 238, 226); */
+    position: fixed;
+    z-index: 100;
+    border: 0ch;
+}
+.btn--x:hover{
+    border: solid 3px;
+    border-color: antiquewhite;
+}
+
+.btn--x{
+    margin-top: 10px;
+    margin-left: 270px;
+    /* padding: 5px 0px 6px 0px; */
+    color: aliceblue;
+    width: 160px;
+    height: 35px;
+    border: solid 1px;
+    background-color: rgb(255, 83, 106);
+}
+.btn--s:hover{
+    border: solid 3px;
+}
+.btn--s{
+    border: solid 0px;
+    bottom: 0;
+    left: -10px;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 0px;
+    padding: 7px;
+    color: aliceblue;
+    width: 182px;
+    border: solid 1px;
+    background-color: rgb(65, 253, 128);
+}
+.btn--c:hover{
+    border: solid 3px;
+}
+.btn--c{
+    border: solid 0px;
+    bottom: 0;
+    left: -10px;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 0px;
+    padding: 7px;
+    color: aliceblue;
+    width: 182px;
+    border: solid 1px;
+    background-color: rgb(65, 253, 128);
+}
+
+
+.header{
+    text-align: center;
+}
+
+.body{
+    display: flex;
+    flex-direction: row;
+
+}
